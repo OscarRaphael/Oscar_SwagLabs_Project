@@ -1,6 +1,6 @@
 Este Projeto tem como o intuito de servir como base para um desafio técnico e também servir como portfólio.
 
-Para construir os testes desse projeto foi necessario:
+Para construir os testes desse projeto foram necessario:
 Node.JS
 Cypress
 VSCode()
